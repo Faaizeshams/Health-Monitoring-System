@@ -1,0 +1,30 @@
+1. Arduino Board
+   - Arduino Uno or any compatible Arduino board
+
+2. Sensors
+   - Temperature Sensor: LM35 or DS18B20
+   - Heartbeat Sensor: Pulse Sensor or KY-039 Heartbeat Sensor Module
+
+3. Display
+   - LCD Display: 16x2 or 20x4 Liquid Crystal Display (LCD)
+
+4. Timer Module (optional)
+   - External Timer Module (if needed)
+
+5. Resistors
+   - Assorted resistors (e.g., 10k ohm) for sensors and pull-up resistors for buttons
+
+6. Breadboard and Jumper Wires
+   - Breadboard for prototyping
+   - Jumper Wires to connect components
+
+7. Push Button
+   - Push button for starting/stopping the monitoring process
+
+8. Power Supply
+   - 9V battery or USB power supply for Arduino
+
+9. Miscellaneous
+   - USB Cable for uploading code to Arduino
+   - Housing/Enclosure (optional)
+   - Soldering Iron and solder (for a permanent circuit)
